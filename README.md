@@ -14,7 +14,7 @@ There's some basic information here in the README but a more comprehensive docum
 
 The repo is **compatible with both Hardhat and Foundry** development environments.
 
-- Have [git](https://git-scm.com/downloads) installed
+- Have [git](https://git-scm.com/downloads) installed on the device
 - Have [node](https://nodejs.org) installed (v18+)
 - Have [Foundry](https://book.getfoundry.sh/getting-started/installation) installed (Hardhat will be installed when running `npm install`)
 - Have [just](https://just.systems/man/en/chapter_1.html) installed (recommended but not strictly necessary)
