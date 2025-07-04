@@ -95,7 +95,7 @@ just switch-client false
 
 Check if the packet got through on the [Polymer IBC explorer](https://sepolia.polymer.zone/packets).
 
-### Universal channels
+### Universal channels where iyou can seee anythingjf
 
 Soon...
 
