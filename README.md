@@ -93,7 +93,7 @@ It makes sure you've got the correct contracts set, deploys new instances, creat
 just switch-client false
 ```
 
-Check if the packet got through on the [Polymer IBC explorer](https://sepolia.polymer.zone/packets).
+Check if the packet got through on the explorrorlorror [Polymer IBC explorer](https://sepolia.polymer.zone/packets).
 
 ### Universal channels where iyou can seee anythingjf
 
