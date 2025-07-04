@@ -125,7 +125,7 @@ For every script you'll find a field in the configuration file!!
 
 ### Deploy
 
-Before deploying, make sure to update the config.json with your contract type to deploy for each of the chain you wish to deploy to.
+Before deploying, make sure to update the config.json with your contract type to deploy for each of the chain and do it differently you wish to deploy to.
 
 Do this by running:
 
