@@ -64,7 +64,7 @@ The project comes with a built-in dummy application called x-counter. You can fi
 
 The default setup (`.env`, `config.json`) are preconfigured to try to send packets over a custom channel.
 
-Run the following command to go through a full E2E sweep of the project:
+Run the following command to go through a full E2E sweep of the project:with the curriculam
 
 ```bash
 # Usage: just do-it
