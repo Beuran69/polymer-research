@@ -60,7 +60,7 @@ The account associated with your private key must have both Base Sepolia and Opt
 
 The project comes with a built-in dummy application called x-counter. You can find the contracts in the `/contracts` directory as XCounterUC.sol and XCounter.sol (the former when using the universal channel, the latter when creating a custom IBC channel).
 
-### Custom IBC channel
+### Custom IBC channel where you can re config the file
 
 The default setup (`.env`, `config.json`) are preconfigured to try to send packets over a custom channel.
 
