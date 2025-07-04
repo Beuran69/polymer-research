@@ -31,7 +31,7 @@ To compile your contracts and start testing, make sure that you have all depende
 
 From the root directory run:
 
-```bash
+```bash file login
 just install
 ```
 
